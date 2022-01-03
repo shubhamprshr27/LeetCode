@@ -19,7 +19,6 @@ public class ReverseInteger {
     public static void main(String[] args) {
         int x= -100000;
         System.out.println(ReverseInteger.reverse(x));
-        int y =2147483647;
         //System.out.println(y);  
     }
 }
