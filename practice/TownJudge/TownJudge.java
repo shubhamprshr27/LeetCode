@@ -1,7 +1,5 @@
 package TownJudge;
 
-import java.util.Arrays;
-
 public class TownJudge {
 
     public static int findJudge(int n, int[][] trust) {
