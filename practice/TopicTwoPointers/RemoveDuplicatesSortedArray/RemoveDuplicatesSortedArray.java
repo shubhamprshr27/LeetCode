@@ -1,4 +1,4 @@
-package RemoveDuplicatesSortedArray;
+package TopicTwoPointers.RemoveDuplicatesSortedArray;
 
 public class RemoveDuplicatesSortedArray {
     public static int removeDuplicates(int[] nums) {

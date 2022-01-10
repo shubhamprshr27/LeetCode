@@ -1,4 +1,4 @@
-package NextPermutation;
+package TopicTwoPointers.NextPermutation;
 
 // This runs in O(n).
 public class EditorialSoln {

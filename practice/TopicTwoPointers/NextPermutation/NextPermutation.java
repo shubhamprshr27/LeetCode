@@ -1,4 +1,4 @@
-package NextPermutation;
+package TopicTwoPointers.NextPermutation;
 
 import java.util.Arrays;
 

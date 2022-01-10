@@ -1,4 +1,4 @@
-package StudyPlans.DS1.ContainsDuplicate;
+package StudyPlans.DS1.Day1.ContainsDuplicate;
 
 import java.util.HashSet;
 

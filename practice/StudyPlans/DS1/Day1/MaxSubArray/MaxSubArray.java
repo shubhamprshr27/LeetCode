@@ -1,4 +1,4 @@
-package StudyPlans.DS1.MaxSubArray;
+package StudyPlans.DS1.Day1.MaxSubArray;
 
 public class MaxSubArray {
     
