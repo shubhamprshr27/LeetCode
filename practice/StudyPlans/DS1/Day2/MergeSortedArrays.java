@@ -1,4 +1,4 @@
-package StudyPlans.DS1.Day1;
+package StudyPlans.DS1.Day2;
 
 //Do double pointer questions.
 public class MergeSortedArrays {

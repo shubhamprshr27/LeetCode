@@ -1,4 +1,4 @@
-package RemoveNthNode;
+package StudyPlans.Algo1.Day5.RemoveNthNode;
 import utils.ListNode;
 
 public class RemoveNthNode {
