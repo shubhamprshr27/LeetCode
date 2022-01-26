@@ -1,4 +1,4 @@
-package MergeSortedLinkedLists;
+package StudyPlans.DS1.Day7.MergeSortedLinkedLists;
 
 class ListNode {
         int val;

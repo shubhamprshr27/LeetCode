@@ -1,4 +1,4 @@
-package BalancedParenthesis;
+package StudyPlans.DS1.Day9.BalancedParenthesis;
 
 import java.util.Stack;
 
