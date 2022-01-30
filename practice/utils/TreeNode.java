@@ -60,4 +60,10 @@ public class TreeNode{
         inorderUtil(root, ans);
         return ans;
     }
+    public static void printTree(TreeNode root){
+        if(root==null){ System.out.println("null"); return;}
+        System.out.println(root.val);
+        printTree(root.left);
+        printTree(root.right);
+    }
 }
